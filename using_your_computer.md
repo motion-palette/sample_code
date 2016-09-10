@@ -23,7 +23,7 @@
 
 **Step 4. Activate the Virtual Environment**
 - Launch Windows PowerShel
-- From the course folder, execute the following command
+- From the course folder, execute the following command:
   ```venv\Scripts\activate```
 
 **Step 5. Install Jupyter Notebook**
