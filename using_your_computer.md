@@ -26,10 +26,10 @@
 - From the course folder, execute the following command
   ```venv\Scripts\activate```
 
-  This may give you an error saying something like "Running scripts is disabled on this system." If this happens, you need to launch Windows PowerShell as an administrator (From the application menu, right-click Windows PowerShell, and select *Run as administrator* from the context menu).
+This may give you an error saying something like "Running scripts is disabled on this system." If this happens, you need to launch Windows PowerShell as an administrator (From the application menu, right-click Windows PowerShell, and select *Run as administrator* from the context menu).
   
-  Then, after you launch Windows PowerShell, execute the following command:
-  ```set-executionpolicy remote signed```
+Then, after you launch Windows PowerShell, execute the following command:
+```set-executionpolicy remote signed```
   
 You should see "(venv)" at the beginning of each command line if you have successfully activated your virtual env.  
 
@@ -40,14 +40,12 @@ You should see "(venv)" at the beginning of each command line if you have succes
   ```pip install jupyter```
 
 **Step 6. Launch Jupyter Notebook**
-- 
+- Launch Windows PowerShell
+-  Activate the virtual environment
+-  Execute the following command:
+   ```jupyter notebook```
 
 
 
-
-
-
-
-jupyter notebook
 
 
