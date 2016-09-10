@@ -2,7 +2,7 @@
 
 ## Setting up your computer for 76388/788 Coding for Humanists
 
-### Mac OS X (10.5 or higher)
+### Mac OS X (10.10 or higher)
 
 **Step 1. Install Python 3.5.2 (or newer)**
 - Download Python 3.5.2 from [https://www.python.org/downloads/]
