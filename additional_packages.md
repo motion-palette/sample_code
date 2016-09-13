@@ -37,5 +37,5 @@
    if this gives you an error, try the following:
 
   ```
-  (venv) users/<username>/cfh > pip install beautifulsoup4
+  (venv) users/<username>/cfh > pip install --upgrade beautifulsoup4
   ```
