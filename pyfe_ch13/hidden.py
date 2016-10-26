@@ -6,5 +6,5 @@
 def oauth():
     return {"consumer_key": "",
             "consumer_secret": "",
-            "token_key": "31144834-",
+            "token_key": "",
             "token_secret": ""}
