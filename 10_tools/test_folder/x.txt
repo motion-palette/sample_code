@@ -1,1 +1,0 @@
-### This folder contains text files that are downloaded from various websites.
