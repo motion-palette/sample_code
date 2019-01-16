@@ -1,0 +1,22 @@
+AI System Finds Subtle Clues in Medical Images
+
+
+
+By Marika Yang
+
+Carnegie Mellon University alumna Shinjini Kundu is using artificial intelligence to interpret medical images in ways that humans cannot. Her program, 3D Transport-Based Morphometry, could significantly impact diagnoses and treatments for diseases. “Some statistics say that up to 80 percent of all medical diagnoses are made or confirmed through imaging studies. As imaging machines have only gotten better, I wondered whether there could be subtle information important for disease recognition that was eluding human detection,” Kundu said. “I thought that if we could find hidden patterns, they may indicate emergence of disease in a way we hadn’t been thinking about. That was the motivation behind 3D TBM.”
+
+Kundu, who earned her Ph.D. and M.D. degrees as part of the Medical Scientist Training Program (MSTP) at Carnegie Mellon (Biomedical Engineering) and the University of Pittsburgh, found that 3D TBM can find evidence of disease from medical images that humans can’t see, and that evidence can help predict diseases even before visible or physical symptoms develop. One of the diseases Kundu studied was osteoarthritis. Using 3D TBM, she was able to see very subtle changes in the medical images of knee cartilage of otherwise healthy people. These changes identified by 3D TBM could predict whether someone will develop osteoarthritis three years in the future with up to 86 percent accuracy.
+
+Kundu’s 3D TBM program lives at the intersection of two of her interests, engineering and medicine, and aims to find the synergism between new innovative technologies and pushing the limits of medical diagnosis, detection and treatment. When she initially designed the program as a Ph.D. candidate in biomedical engineering at Carnegie Mellon, Kundu said she had not originally planned to incorporate the artificial intelligence and machine learning component.
+
+“I didn't necessarily think that I would be working on a machine learning project when I first started,” she said. “I just thought that this is a really cool idea, an important problem, and one that I could solve by applying the engineering skills that I'd learned. It was an opportunity to grow as an engineer and also solve an important problem in medical diagnosis. Now, having built this, I see that machine learning is a big component of it.”
+
+When Kundu was deciding where she wanted to continue her education after graduating from Stanford, Carnegie Mellon’s College of Engineering for its front-of-the-line research and technology and interdisciplinary values.
+
+“I wanted to be a part of the cutting-edge work going on at CMU,” she said. “There are so many interesting projects and ideas that there isn’t enough time in the world to take part in all of them. It’s a privilege. I had the opportunity to learn from so many bright people who are there. As I progress in my career, what I learned at CMU — how to think like an engineer and how to approach problems like an engineer — is going to stay with me.”
+
+Earlier this year, Kundu was named one of the Massachusetts Institute of Technology Review’s 35 Innovators Under 35. Today, she works as a research scientist and holds a resident physician position at the University of Pittsburgh Medical Center, continuing to pursue both of her passions. She is working on further developing 3D TBM, studying different diseases and physical conditions with the program.
+
+“Right now, I’m still working toward getting 3D TBM into the clinic, into the hands of doctors, and ultimately enabling better patient care,” she said.
+

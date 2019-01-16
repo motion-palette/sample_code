@@ -1,0 +1,31 @@
+New CMU Degree Prepares Researchers for AI-Directed Experimentation
+
+
+
+By Byron Spice bspice(through)cs.cmu.edu
+
+
+Computers increasingly are helping scientists identify and select experiments necessary for scientific discoveries, so Carnegie Mellon University has created a two-year master's degree program to train specialists needed to design, configure, operate and maintain these systems.
+
+CMU's Computational Biology Department will offer the Master of Science in Automated Science: Biological Experimentation beginning in fall 2019 and is accepting applications for its initial class through Dec. 1.
+
+"Automation has disrupted numerous industries and is poised to radically transform the pace and economics of scientific research in academia and industry," said Robert F. Murphy, head of the Computational Biology Department and co-director of the new master's degree program. "We will train students to become leaders in this new field, where automated instruments and artificial intelligence combine to produce scientific discoveries."
+
+Automation such as high-throughput screening is a standard means of experimentation for drug discovery and of basic biological science. Advances in AI and machine learning now make it possible and — given the complexity and scope of today's experiments — even preferable for computers to choose which experiments will fill gaps in knowledge and which only duplicate knowledge and can be skipped.
+
+"The goal is to develop self-driving instruments, similar to self-driving cars that require little if any help from their occupants," Murphy said. "The need for human intervention in experiments will be minimal, though creating these automated systems and planning experiments will require people who are familiar both with experimental methods and with the machine learning and statistical methods necessary to construct predictive models."
+
+"This exciting new program in automated science will break new ground while building upon the unique strengths of Carnegie Mellon," said Carnegie Mellon President Farnam Jahanian. "By training a new generation to develop and use 'self-driving instruments' that combine artificial intelligence with automated research instruments, we will play a leading role in advancing new paradigms in discovery and changing the way that experimental science is done."
+
+Christopher Langmead, associate professor of computational biology and co-director with Murphy of the master's program, said the initial concentration will be in biological experimentation, but additional subject areas are expected to be added in coming years.
+
+The program seeks to attract students who are preparing for laboratory careers and otherwise might pursue master's degrees in biology or chemistry. It will train students for jobs such as laboratory automation specialists and automation engineers. It also will provide excellent preparation for students contemplating Ph.D. studies in related disciplines.
+
+To ensure that it meets industry needs, the program will have an external advisory board drawn from potential employers.
+
+"This program will provide a major boost to the scientific automation field and I am very happy to be involved with it," said DJ Kleinbaum, an external advisory board member and co-founder of Emerald Cloud Lab, a California company that provides automated solutions for contract research.
+
+The MSASBE program will provide training in three areas:
+
+The interdisciplinary program will draw on faculty from CMU's Computational Biology Department, Machine Learning Department, Computer Science Department, Department of Biological Sciences, Department of Chemistry, Mechanical Engineering Department and Biomedical Engineering Department.
+

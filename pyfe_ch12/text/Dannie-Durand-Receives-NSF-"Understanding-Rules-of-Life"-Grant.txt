@@ -1,0 +1,23 @@
+Dannie Durand Receives NSF "Understanding Rules of Life" Grant
+
+
+
+By  Jocelyn Duffy jhduffy(through)andrew.cmu.edu
+
+
+Dannie Durand, a faculty member in Carnegie Mellon University's Department of Biological Sciences, is one of 29 recipients of the National Science Foundation's (NSF) "Understanding the Rules of Life" grants. The grants are part of a $15 million investment by the NSF to address some of the greatest challenges to understanding the living world.
+
+The current challenge in biological systems is to assimilate new information into causal, predictive models. "Understanding the Rules of Life," one of NSF's 10 Big Ideas, aims to enable discoveries that will allow us to better understand complex interactions and identify relationships that cross scales - in short, the "rules" for how life functions. NSF's goal is to support research that goes beyond any one system under investigation to discover principles that enable forecasting or prediction of changes in a broad range of biological systems.
+
+"Rules of Life is an interesting way to think about evolution. When we observe a cell and its genome, we are observing one solution for survival in a particular environment. If there are only a few solutions, we could expect to see similar patterns in other living systems that are evolving under similar constraints," Durand said. "We could then use these patterns as rules to create predictive models."
+
+Under the "Understanding the Rules of Life" grant, Maureen Stolzer, the Durand lab research scientist who is leading the project, will characterize similarities and differences in the processes that result in the appearance of new multidomain proteins in vertebrates and bacteria.
+
+Multidomain proteins are mosaics of sequence fragments that encode structural or functional modules - the "building blocks" of proteins. These modular proteins allow the cell to interact with its environment through cell signaling, adhesion and migration. In humans, multidomain proteins play a fundamental role in cell death, immunity, inflammation and tissue repair.
+
+Multidomain protein architecture varies between species, as do genomic and cellular properties. Using this comparative framework, Stolzer and Durand will attempt to identify the design rules for multidomain proteins. These rules will provide the foundation for predictive models that link evolution and function. The models can be used to develop applications in health care and protein engineering.
+
+Twenty of the newly awarded projects, including Durand's, are granted under NSF's Early-concept Grants for Exploratory Research (EAGER) program, meaning they represent exploratory work in its early stages on untested, but potentially transformative, research ideas or approaches. This work could be considered especially "high risk-high payoff" in the sense that it involves radically different approaches, applies new expertise or engages novel disciplinary or interdisciplinary perspectives.
+
+NSF Grant #1838344
+
